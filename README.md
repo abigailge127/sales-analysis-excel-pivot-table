@@ -24,11 +24,12 @@ Analisis dilakukan untuk mempratikan kemampuan data analisi menggunakan excel, m
 - Jumlah baris: 224
 - kolom utama: Order_ID, Tanggal_Order, Wilayah, Kategori_Produk, Nama_Produk, Jumlah, Harga_Satuan, Total_Penjualan, Metode_Pembayaran, Segmen_Pelanggan
 
-  ## Tools & Teknik
+## Tools & Teknik
   - Microsoft Excel
   - Data Cleaning (Remove Duplicates, Rename null data yang memiliki nilai transaksi)
   - Pivot table + Pivot Chart
   - Formula: SUM, MIN, MAX, AVERAGE, COUNT, INDEX, TEXTJOIN
   - Dashboard: Microsoft Excel (sheet Presentasi)
- 
-  - 
+
+## Hasil Dashboard
+![Dashboard](Slicer_all_data.PNG)
