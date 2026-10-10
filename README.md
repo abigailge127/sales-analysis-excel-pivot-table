@@ -55,7 +55,7 @@ Analisis dilakukan untuk mempratikan kemampuan data analisi menggunakan excel, m
 6. Kotak Penyimpanan laris tapi Harga Murah, 153 produk terjual tapi termasuk dalam penjualan yang terendah karena masalah harga bukan permintaan. Lakukan riset lapangan sebelum melakukan alokasi budget.
 
 ## File
-- [Dataset](data_mentah.xlsx)
+- [Dataset](Data_mentah.xlsx)
 - [Hasil Analisis](Hasil_Analisis.xlsx)
 
 
