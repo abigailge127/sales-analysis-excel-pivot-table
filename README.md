@@ -54,7 +54,9 @@ Analisis dilakukan untuk mempratikan kemampuan data analisi menggunakan excel, m
 5. QRIS Dominan, Perlu Prioritaskan Infrastruktur, 28,5% transasksi via QRIS, jauh diatas Transfer Bank (14,8%). Audit biaya dan settlement QRIS selama 1 bulan.
 6. Kotak Penyimpanan laris tapi Harga Murah, 153 produk terjual tapi termasuk dalam penjualan yang terendah karena masalah harga bukan permintaan. Lakukan riset lapangan sebelum melakukan alokasi budget.
 
-##
+## File
+- [Dataset](data_mentah.xlsx)
+- [Hasil Analisis](Hasil_Analisis.xlsx)
 
 
 
