@@ -33,3 +33,28 @@ Analisis dilakukan untuk mempratikan kemampuan data analisi menggunakan excel, m
 
 ## Hasil Dashboard
 ![Dashboard](Slicer_all_data.PNG)
+![Dashboard](Slicer_Wilayah_Medan.PNG)
+![Dashboard](Slicer_Pelanggan_Reseller.PNG)
+![Dashboard](Slicer_Payment_QRIS.PNG)
+![Dashboard](Slicer_Kecantikan.PNG)
+![Dashboard](Slicer_July_Aug_Sept.PNG)
+
+## Insight Utama
+1. Fashion & Elektronik mendominasi 56,5 % total penjualan. Elektronik dengan AOV tertinggi tapi sangat musiman.
+2. 4 kota menyumbang 50% merata yakni Semarang, Makassar, Surabaya, Medan, tidak ada dominasi ekstreme di salah satu kota.
+3. Reseller dengan AOV lebih rendah dari Retail Rp1,03 Jt vs Rp1,31 Jt.Hal ini berlawanan dengan pola bisnis wajar.
+4. Mouse Wireless mendominasi sendirian 50% lebih tinggi dari produk terlaris ke-2 sehingga beresiko pada konsentrasi produk.
+5. QRIS metode pembayaran terbesar 28,5% dari total, menyebabkan pergeseran yang kuat ke pembayaran digital.
+
+## Rekomendasi Strategis 2026
+1. Reseller Salah Perilaku: AOV < Retail. AOV Reseller (Rp1,03 Jt) di bawah Retail (Rp1,3Jt), padahal seharusnya Reseller membeli lebih banyak. Perlu terapkan MOQ/tiered pricing khusus Reseller (1 bulan).
+2. Elektronik Meledak di Q4 tapi kosong di Q2. Melonjak 2,5x di bulan November, tapi nyaris kosong di Maret - Juli. Perlu dilakukan kampanye elektronik di Q2  untuk meratakan permintaan .
+3. 3 Kota Rendah, perlu dilakukan diagnosis terlebih dulu yakni Yogyakarta, Palembang, Denpasar hanya 21% gabungan. Lakukan riset lapangan sebelum melakukan alokasi budget.
+4. Mouse Wireless Dominan Sendirian, rata-rata 50% lebih tinggi dari produk terlaris  ke-2  yang berisiko konsentrasi pada satu produk. Lakukan bundling dengan Kabel Data USB-C/Earphone Bluetooth.
+5. QRIS Dominan, Perlu Prioritaskan Infrastruktur, 28,5% transasksi via QRIS, jauh diatas Transfer Bank (14,8%). Audit biaya dan settlement QRIS selama 1 bulan.
+6. Kotak Penyimpanan laris tapi Harga Murah, 153 produk terjual tapi termasuk dalam penjualan yang terendah karena masalah harga bukan permintaan. Lakukan riset lapangan sebelum melakukan alokasi budget.
+
+##
+
+
+
