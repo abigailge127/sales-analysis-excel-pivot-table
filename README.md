@@ -38,6 +38,9 @@ Analisis dilakukan untuk mempratikan kemampuan data analisi menggunakan excel, m
 ![Dashboard](Slicer_Payment_QRIS.PNG)
 ![Dashboard](Slicer_Kecantikan.PNG)
 ![Dashboard](Slicer_July_Aug_Sept.PNG)
+https://github.com/user-attachments/assets/77ba048a-45a7-4468-a1e9-220d7557c10e
+
+
 
 ## Insight Utama
 1. Fashion & Elektronik mendominasi 56,5 % total penjualan. Elektronik dengan AOV tertinggi tapi sangat musiman.
