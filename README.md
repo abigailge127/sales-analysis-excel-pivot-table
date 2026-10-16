@@ -29,7 +29,8 @@ Analisis dilakukan untuk mempratikan kemampuan data analisi menggunakan excel, m
   - Data Cleaning (Remove Duplicates, Rename null data yang memiliki nilai transaksi)
   - Pivot table + Pivot Chart
   - Formula: SUM, MIN, MAX, AVERAGE, COUNT, INDEX, TEXTJOIN
-  - Dashboard: Microsoft Excel (sheet Presentasi)
+  - Dashboard: Slicer
+  - Presentasi: Microsoft Excel (Sheet Presentasi)
 
 ## Hasil Dashboard
 ![Dashboard](slicer-all.PNG)
