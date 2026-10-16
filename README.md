@@ -32,13 +32,17 @@ Analisis dilakukan untuk mempratikan kemampuan data analisi menggunakan excel, m
   - Dashboard: Microsoft Excel (sheet Presentasi)
 
 ## Hasil Dashboard
-![Dashboard](Slicer_all.PNG)
-![Dashboard](Slicer_Wil_Jakarta.PNG)
-![Dashboard](Slicer_Bln_Jan_Feb_Mar.PNG)
-![Dashboard](Slicer_Kat_Fashion.PNG)
+![Dashboard](slicer-all.PNG)
+![Dashboard](slicer-wil-bandung.PNG)
+![Dashboard](slicer-bln-Jan.PNG)
+![Dashboard](slicer-kat-fashion.PNG)
+![Dashboard](slicer-paymed-ewallet.PNG)
+![Dashboard](slicer-pelanggan-grosir.PNG)
 
 ## Interaktif Dashboard
-https://github.com/user-attachments/assets/77ba048a-45a7-4468-a1e9-220d7557c10e
+https://github.com/user-attachments/assets/6373448f-8b68-46ac-a6b1-c7dbc6f01687
+
+
 
 
 
